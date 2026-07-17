@@ -2,7 +2,7 @@
 
 React frontend for the OpenSOAR SOAR platform — built for SOC analysts doing alert triage and incident response.
 
-**OpenSOAR is a PwnKit Labs product.**
+**OpenSOAR is a 0sec Labs product.**
 
 ## Stack
 
