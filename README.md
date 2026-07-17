@@ -140,11 +140,11 @@ Areas where help is most needed:
 
 ---
 
-## Part of PwnKit Labs
+## Part of 0sec Labs
 
-**Open-source adversarial security for the agentic AI era.** OpenSOAR is one piece of the open-source PwnKit Labs stack:
-- **[pwnkit](https://github.com/PwnKit-Labs/pwnkit)** — AI agent pentester (detect)
-- **[foxguard](https://github.com/PwnKit-Labs/foxguard)** — Rust security scanner (prevent)
+**Open-source adversarial security for the agentic AI era.** OpenSOAR is one piece of the [0sec Labs](https://0sec.ai) stack:
+- **pwnkit** — autonomous AI pentester (detect) · closed source, [0sec.ai](https://0sec.ai)
+- **[foxguard](https://github.com/0sec-labs/foxguard)** — Rust security scanner (prevent)
 - **[opensoar](https://github.com/opensoar-hq/opensoar-core)** — Python-native SOAR platform (respond)
 
 ---
