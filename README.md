@@ -86,16 +86,16 @@ Tracecat is the closest competitor in philosophy (YC-backed, developer-focused) 
 
 ## Features
 
-- [x] **Webhook ingestion** — automatic normalization (Elastic, generic JSON), IOC extraction, deduplication
-- [x] **Python-native playbooks** — `@playbook` and `@action` decorators, `asyncio.gather()` for parallelism, retry/timeout per action, explicit `order=` for sequential match execution
-- [x] **Trigger engine** — match alerts to playbooks by severity, source, or field conditions
-- [x] **Integrations** — Elastic Security, VirusTotal, AbuseIPDB, Slack, Email, extensible via Python SDK
-- [x] **Case management** — create/link incidents from alerts, assign cases, comment on the timeline, add observables, review lightweight correlation suggestions
-- [x] **AI-powered** — LLM summarization, triage recommendations, playbook generation, auto-resolve, correlation (Claude, OpenAI, Ollama)
-- [x] **Dashboard & UI** — React 19, dark theme, priority queue, MTTR, per-partner MSSP stats, alert-to-incident workflow
-- [x] **Auth & RBAC** — JWT + API keys, explicit first-admin bootstrap, admin-managed local accounts, 3 core roles, no public registration into privileged roles
-- [x] **Celery workers** — async execution with horizontal scaling
-- [x] **Plugin architecture** — load optional enterprise features if installed
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/download.png" alt="">&nbsp; **Webhook ingestion** — automatic normalization (Elastic, generic JSON), IOC extraction, deduplication
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/code.png" alt="">&nbsp; **Python-native playbooks** — `@playbook` and `@action` decorators, `asyncio.gather()` for parallelism, retry/timeout per action, explicit `order=` for sequential match execution
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/zap.png" alt="">&nbsp; **Trigger engine** — match alerts to playbooks by severity, source, or field conditions
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/plug.png" alt="">&nbsp; **Integrations** — Elastic Security, VirusTotal, AbuseIPDB, Slack, Email, extensible via Python SDK
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/briefcase.png" alt="">&nbsp; **Case management** — create/link incidents from alerts, assign cases, comment on the timeline, add observables, review lightweight correlation suggestions
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/dependabot.png" alt="">&nbsp; **AI-powered** — LLM summarization, triage recommendations, playbook generation, auto-resolve, correlation (Claude, OpenAI, Ollama)
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/graph.png" alt="">&nbsp; **Dashboard & UI** — React 19, dark theme, priority queue, MTTR, per-partner MSSP stats, alert-to-incident workflow
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/shield-lock.png" alt="">&nbsp; **Auth & RBAC** — JWT + API keys, explicit first-admin bootstrap, admin-managed local accounts, 3 core roles, no public registration into privileged roles
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/server.png" alt="">&nbsp; **Celery workers** — async execution with horizontal scaling
+- <img height="14" src="https://raw.githubusercontent.com/opensoar-hq/.github/main/profile/assets/icons/package.png" alt="">&nbsp; **Plugin architecture** — load optional enterprise features if installed
 
 ---
 
